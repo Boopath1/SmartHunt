@@ -28,3 +28,5 @@ region = us-west-2
 aws_access_key_id = AKI************
 aws_secret_access_key = Isx8***************
 ```
+
+> more [info](https://www.youtube.com/watch?v=_f0d2pLJjiA&t=1s)
