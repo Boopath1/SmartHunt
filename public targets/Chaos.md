@@ -13,8 +13,22 @@ This command line helps to grep all public bounty programs
 ```sh
 wget https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64
 ```
+- rename the file to jq
 
-## Save as publictargets.sh
+```sh
+mv jq-linux64 jq
+
+chmod +x jq
+```
+
+- move to bin
+
+```sh
+sudo mv jq /usr/local/bin
+```
+
+
+## Open mousepad & Save as publictargets.sh
 
 > mousepad publictargets.sh
 
