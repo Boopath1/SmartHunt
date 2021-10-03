@@ -38,11 +38,13 @@ for f in *.zip; do unzip -d "${f%*.zip}" "$f"; done
 rm -rf *.zip
 ```
 
+### You can change the name from hackerone to bugcrowd, intigriti, etc
+
 > chmod +x publictargets.sh
 
 # Usage
 > ./publictargets.sh
 
-### You can change the name from hackerone to bugcrowd, intigriti, etc
+
 
 
