@@ -23,6 +23,6 @@ rm -rf *.zip
 # Usage
 > ./publictargets.sh
 
-## You can change the name from hackerone to bugcrowd, intigriti, etc
+### You can change the name from hackerone to bugcrowd, intigriti, etc
 
 
