@@ -1,8 +1,14 @@
 # Get all public targets via Chaos 
 
-> Tools
+- bounty: true
 
-## jq
+
+This command line helps to grep all public bounty programs
+
+
+## Tool
+
+> jq
 
 ```sh
 wget https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64
