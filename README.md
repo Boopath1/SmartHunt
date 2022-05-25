@@ -1,1 +1,1 @@
-# SmartHuntinG
+# SmartHunt
